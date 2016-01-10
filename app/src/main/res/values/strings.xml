@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasicMaterialDesignUI</string>
+    <string name="splash_copyright">Copyright &#169; 2015 SimplifyReader All Rights Reserved\nPowered by Obsessive and Chris</string>
+    <string name="splash_slogan">Go through the every bit of life</string>
+    <string name="splash_version">V %1$s</string>
+
+    <string name="drawer_open">DrawerOpen</string>
+    <string name="drawer_close">DrawerClose</string>
+    <string name="menu_capture">Scan QR Code</string>
+    <string name="menu_about_us">About us</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="double_click_exit">Press again to exit</string>
+</resources>
